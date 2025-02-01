@@ -5,7 +5,7 @@ An interactive dashboard for Telco Communications, analyzing customer churn and 
 
 </br>
 
-## Data Source:
+## Data Source
 
 Telco customer churn data created by [IBM Cognos Analytics](https://community.ibm.com/community/user/businessanalytics/blogs/steven-macko/2019/07/11/telco-customer-churn-1113) and sourced from [Kaggle](https://www.kaggle.com/datasets/ylchang/telco-customer-churn-1113).
 
@@ -29,19 +29,21 @@ Data was cleaned and transformed in MySQL and then loaded into PowerBI. All quer
 
 </br>
 
-## Data Modeling:
+## Data Modeling
 
 A star schema model was used for its simplicity, flexibility, and performance advantages over an upstream OBT (One Big Table) data model created in SQL through joins.
 
-Model:
+<img align="right" width="700" src="https://github.com/user-attachments/assets/76019e8a-a97a-41d0-a14f-2c2f42ba3da6">
+
 - **Fact table:**
     - ```Services```
 - **Dimensions tables:**
-    - ```Status``` <- ```Risk Level```
-    - ```Location``` <- ```Population```
+    - ```Status```
+        - ```Risk Level```
+    - ```Location``` 
+        - ```Population```
     - ```Demographics```  
 
-![DataModel](https://github.com/Pranjali-d/Telco_Customer_Churn_Analysis/assets/49934575/06359047-5db6-474e-80ab-e2126362375f)
 
 </br>
 
