@@ -1,7 +1,21 @@
 # Telco Customer Churn Analysis
 
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
+</br>
+
 ## Overview
+
 An interactive dashboard for Telco Communications, analyzing customer churn and uncovering key drivers of attrition, with data transformed in MySQL and  visualized in Power BI.
+
+</br>
+
+## Table of Contents
+
+- [Data Source](https://github.com/hershuay/Telco-Churn-Analysis/edit/main/README.md#data-source)
+- [Data Wrangling](https://github.com/hershuay/Telco-Churn-Analysis/edit/main/README.md#data-wrangling)
+- [Data Modeling](https://github.com/hershuay/Telco-Churn-Analysis/edit/main/README.md#data-modeling)
 
 </br>
 
