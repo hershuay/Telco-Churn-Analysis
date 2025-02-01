@@ -16,6 +16,10 @@ An interactive dashboard for Telco Communications, analyzing customer churn and 
 - [Data Source](https://github.com/hershuay/Telco-Churn-Analysis/edit/main/README.md#data-source)
 - [Data Wrangling](https://github.com/hershuay/Telco-Churn-Analysis/edit/main/README.md#data-wrangling)
 - [Data Modeling](https://github.com/hershuay/Telco-Churn-Analysis/edit/main/README.md#data-modeling)
+- [Dashboard](https://github.com/hershuay/Telco-Churn-Analysis/edit/main/README.md#dashboard)
+- [Insights](https://github.com/hershuay/Telco-Churn-Analysis/edit/main/README.md#insights)
+- [Recommendations](https://github.com/hershuay/Telco-Churn-Analysis/edit/main/README.md#recommendations)
+- [Resources](https://github.com/hershuay/Telco-Churn-Analysis/edit/main/README.md#resources)
 
 </br>
 
@@ -47,7 +51,8 @@ Data was cleaned and transformed in MySQL and then loaded into PowerBI. All quer
 
 A star schema model was used for its simplicity, flexibility, and performance advantages over an upstream OBT (One Big Table) data model created in SQL through joins.
 
-<img align="right" width="700" src="https://github.com/user-attachments/assets/76019e8a-a97a-41d0-a14f-2c2f42ba3da6">
+<img align="right" width="600" src="https://github.com/user-attachments/assets/76019e8a-a97a-41d0-a14f-2c2f42ba3da6">
+
 
 - **Fact table:**
     - ```Services```
@@ -58,6 +63,64 @@ A star schema model was used for its simplicity, flexibility, and performance ad
         - ```Population```
     - ```Demographics```  
 
+</br>
+</br>
+</br>
+</br>
+
+## Dashboard
+
+The dashboard features three interactive pages analyzing customer churn, customer details, and product details. You can access the Power BI (.pbix) file [here](https://github.com/hershuay/Telco-Churn-Analysis/blob/main/Telco%20Customer%20Churn%20Analysis.pbix).
 
 </br>
+
+#### Customer Churn </p>
+Offers an overview of key customer churn metrics and explores strong contributing factors driving churn increases.
+
+<p align="center">
+  <img width="700" src="https://github.com/user-attachments/assets/edcc2c04-0909-4264-8249-ec6d84c6476f">
+</p>
+
+</br>
+
+#### Customer Details </p>
+
+Offers an overview of key customer metrics, highlighting various categorical groups and key influencing factors.
+
+<p align="center">
+  <img width="700" src="https://github.com/user-attachments/assets/154776fc-6d3b-446f-91ec-701c9efcca12">
+</p>
+
+</br>
+
+#### Customer Details </p>
+
+Offers an overview of key revenue and churn metrics based on selected service offerings, highlighting attrition trends by product.
+
+<p align="center">
+  <img width="700" src="https://github.com/user-attachments/assets/74f3f6c2-0985-4a36-9f9b-7cfbaaab1db4">
+</p>
+
+</br>
+
+</br>
+
+## Insights
+Key insights  derived from this dashboard through visualizations and metrics include:
+- 
+
+
+</br>
+
+## Recommendations </p>
+
+
+</br>
+
+## Resources </p>
+
+All resources involved in the creation of this dashboard can be found [here](https://github.com/hershuay/Telco-Churn-Analysis/tree/main/Resources).
+
+
+
 
