@@ -120,19 +120,12 @@ Key insights derived from this dashboard through visualizations and metrics incl
 
 ## Recommendations
 
-- Introduce Incentives for Month-to-Month Customers
-    - Offer discounts or loyalty rewards for long-term commitments to reduce churn in this segment. Additionally, consider bundling services to enhance perceived value
-    - These customers make up the largest group of customers and contribute the most to the monthly recurring revenue
- 
- - Enhance Competitive Positioning
-    – Conduct market research to analyze competitors’ pricing and device offerings.
+- Introduce incentives for Month-to-Month customers such as discounts or loyalty rewards, as this segment represents the largest customer base and contributes the most to monthly recurring revenue.
+    - Additionally, consider bundling services to enhance perceived value.
+ - Enhance competitive positioning by conducting market research to analyze competitors’ pricing and device offerings.
     - Adjust pricing models, introduce trade-in programs, or provide exclusive device upgrades to retain customers.
-  
-- Targeted Retention Strategies for High-Churn Segments
-    - Develop personalized retention strategies for seniors, such as tailored customer support, simplified plans, or exclusive discounts to improve engagement and reduce churn.
-
-- Leverage Success of Offer A
-    - Expand and promote Offer A’s benefits to a wider audience, including fiber-optic users and high-churn demographics, to increase customer retention and lifetime value.
+- Develop personalized retention strategies for seniors, such as tailored customer support, simplified plans, or exclusive discounts to improve engagement and reduce churn.
+- Expand and promote Offer A’s benefits to a wider audience, including fiber-optic users and high-churn demographics, to increase customer retention and lifetime value.
 
 </br>
 
