@@ -72,8 +72,6 @@ A star schema model was used for its simplicity, flexibility, and performance ad
 
 The dashboard features three interactive pages analyzing customer churn, customer details, and product details. You can access the Power BI (.pbix) file [here](https://github.com/hershuay/Telco-Churn-Analysis/blob/main/Telco%20Customer%20Churn%20Analysis.pbix).
 
-</br>
-
 #### Customer Churn </p>
 Offers an overview of key customer churn metrics and explores strong contributing factors driving churn increases.
 
