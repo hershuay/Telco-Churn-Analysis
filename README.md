@@ -7,7 +7,7 @@
 
 ## Overview
 
-An interactive dashboard for Telco Communications, analyzing customer churn and uncovering key drivers of attrition, with data transformed in MySQL and  visualized in Power BI.
+An interactive dashboard created for Telco Communications, analyzing customer churn and uncovering key drivers of attrition during Q3 of 2018 in California, with data transformed in MySQL and visualized in Power BI.
 
 </br>
 
@@ -77,7 +77,7 @@ The dashboard features three interactive pages analyzing customer churn, custome
 #### Customer Churn </p>
 Offers an overview of key customer churn metrics and explores strong contributing factors driving churn increases.
 
-<p align="center">
+<p align="left">
   <img width="700" src="https://github.com/user-attachments/assets/edcc2c04-0909-4264-8249-ec6d84c6476f">
 </p>
 
@@ -87,7 +87,7 @@ Offers an overview of key customer churn metrics and explores strong contributin
 
 Offers an overview of key customer metrics, highlighting various categorical groups and key influencing factors.
 
-<p align="center">
+<p align="left">
   <img width="700" src="https://github.com/user-attachments/assets/154776fc-6d3b-446f-91ec-701c9efcca12">
 </p>
 
@@ -97,7 +97,7 @@ Offers an overview of key customer metrics, highlighting various categorical gro
 
 Offers an overview of key revenue and churn metrics based on selected service offerings, highlighting attrition trends by product.
 
-<p align="center">
+<p align="left">
   <img width="700" src="https://github.com/user-attachments/assets/74f3f6c2-0985-4a36-9f9b-7cfbaaab1db4">
 </p>
 
@@ -106,18 +106,37 @@ Offers an overview of key revenue and churn metrics based on selected service of
 </br>
 
 ## Insights
-Key insights  derived from this dashboard through visualizations and metrics include:
-- 
 
+Key insights derived from this dashboard through visualizations and metrics include: 
+
+- Churn rate rose by 13% year-over-year in 2018, with month-to-month contracts being the largest contributor.
+- Competitor offerings, particularly better devices and pricing, are the primary drivers of churn.
+- Despite a significant increase in customers in 2018, the average revenue per customer declined slightly by $5.
+- Seniors have the highest churn rate (~32.54%), while younger customers exhibit lower churn rates.
+- Fiber-optic users have the highest churn (~44.83%), likely due to pricing or competition, whereas DSL users have the lowest churn (~9.35%).
+- Customers on Offer A had the highest lifetime value ($1.2K) and the highest retention rate (93%).
 
 </br>
 
-## Recommendations </p>
+## Recommendations
 
+- Introduce Incentives for Month-to-Month Customers
+    - Offer discounts or loyalty rewards for long-term commitments to reduce churn in this segment. Additionally, consider bundling services to enhance perceived value
+    - These customers make up the largest group of customers and contribute the most to the monthly recurring revenue
+ 
+ - Enhance Competitive Positioning
+    – Conduct market research to analyze competitors’ pricing and device offerings.
+    - Adjust pricing models, introduce trade-in programs, or provide exclusive device upgrades to retain customers.
+  
+- Targeted Retention Strategies for High-Churn Segments
+    - Develop personalized retention strategies for seniors, such as tailored customer support, simplified plans, or exclusive discounts to improve engagement and reduce churn.
+
+- Leverage Success of Offer A
+    - Expand and promote Offer A’s benefits to a wider audience, including fiber-optic users and high-churn demographics, to increase customer retention and lifetime value.
 
 </br>
 
-## Resources </p>
+## Resources
 
 All resources involved in the creation of this dashboard can be found [here](https://github.com/hershuay/Telco-Churn-Analysis/tree/main/Resources).
 
