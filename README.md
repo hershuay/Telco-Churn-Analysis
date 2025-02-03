@@ -13,13 +13,13 @@ An interactive dashboard created for Telco Communications, analyzing customer ch
 
 ## Table of Contents
 
-- [Data Source](https://github.com/hershuay/Telco-Churn-Analysis/edit/main/README.md#data-source)
-- [Data Wrangling](https://github.com/hershuay/Telco-Churn-Analysis/edit/main/README.md#data-wrangling)
-- [Data Modeling](https://github.com/hershuay/Telco-Churn-Analysis/edit/main/README.md#data-modeling)
-- [Dashboard](https://github.com/hershuay/Telco-Churn-Analysis/edit/main/README.md#dashboard)
-- [Insights](https://github.com/hershuay/Telco-Churn-Analysis/edit/main/README.md#insights)
-- [Recommendations](https://github.com/hershuay/Telco-Churn-Analysis/edit/main/README.md#recommendations)
-- [Resources](https://github.com/hershuay/Telco-Churn-Analysis/edit/main/README.md#resources)
+- [Data Source](#data-source)
+- [Data Wrangling](#data-wrangling)
+- [Data Modeling](#data-modeling)
+- [Dashboard](#dashboard)
+- [Insights](#insights)
+- [Recommendations](#recommendations)
+- [Resources](#resources)
 
 </br>
 
