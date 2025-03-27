@@ -91,7 +91,7 @@ Offers an overview of key customer metrics, highlighting various categorical gro
 
 </br>
 
-#### Customer Details </p>
+#### Product Details </p>
 
 Offers an overview of key revenue and churn metrics based on selected service offerings, highlighting attrition trends by product.
 
